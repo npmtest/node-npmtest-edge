@@ -160,7 +160,6 @@
     "git": "git",
     "optional": "true",
     "timeout_default": "60000",
-    "spin": "",
     "json": ""
   }
 }
