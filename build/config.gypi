@@ -75,7 +75,6 @@
     "init_version": "1.0.0",
     "user": "1000",
     "if_present": "",
-    "mode_coverage_dir": "/home/travis/build/npmtest/node-npmtest-edge/node_modules/edge",
     "force": "",
     "only": "",
     "cache_min": "10",
@@ -90,10 +89,12 @@
     "init_author_name": "",
     "init_author_url": "",
     "depth": "Infinity",
+    "dir_electron": "/home/travis/build/npmtest/node-npmtest-edge/node_modules/electron-lite",
     "save_dev": "",
     "usage": "",
     "progress": "",
     "https_proxy": "",
+    "mode_test_case": "testCase_buildApp_default",
     "onload_script": "",
     "mode_test": "1",
     "rebuild_bundle": "true",
@@ -114,7 +115,7 @@
     "global_style": "",
     "ignore_scripts": "",
     "version": "",
-    "mode_coverage": "all",
+    "mode_coverage": "",
     "viewer": "man",
     "local_address": "",
     "color": "true",
@@ -159,7 +160,7 @@
     "searchexclude": "",
     "git": "git",
     "optional": "true",
-    "timeout_default": "60000",
+    "spin": "",
     "json": ""
   }
 }

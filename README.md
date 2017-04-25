@@ -1,4 +1,7 @@
-# test coverage for  [edge (v6.5.1)](https://github.com/tjanczuk/edge)  [![npm package](https://img.shields.io/npm/v/npmtest-edge.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-edge) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-edge.svg)](https://travis-ci.org/npmtest/node-npmtest-edge)
+# npmtest-edge
+
+#### basic test coverage for  [edge (v6.5.1)](https://github.com/tjanczuk/edge)  [![npm package](https://img.shields.io/npm/v/npmtest-edge.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-edge) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-edge.svg)](https://travis-ci.org/npmtest/node-npmtest-edge)
+
 #### Edge.js: run .NET and Node.js in-process on Windows, Mac OS, and Linux
 
 [![NPM](https://nodei.co/npm/edge.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/edge)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-edge/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-edge/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-edge/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-edge/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-edge/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-edge/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-edge/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-edge/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-edge/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-edge/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-edge/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-edge/build/coverage.html/index.html)
 
@@ -92,7 +95,8 @@
         "managed",
         ".net"
     ],
-    "version": "6.5.1"
+    "version": "6.5.1",
+    "bin": {}
 }
 ```
 

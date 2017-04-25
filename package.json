@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [edge (v6.5.1)](https://github.com/tjanczuk/edge) [![npm package](https://img.shields.io/npm/v/npmtest-edge.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-edge) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-edge.svg)](https://travis-ci.org/npmtest/node-npmtest-edge)",
+    "description": "#### basic test coverage for  [edge (v6.5.1)](https://github.com/tjanczuk/edge)  [![npm package](https://img.shields.io/npm/v/npmtest-edge.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-edge) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-edge.svg)](https://travis-ci.org/npmtest/node-npmtest-edge)",
     "devDependencies": {
         "edge": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
